@@ -1,0 +1,9 @@
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\bin\Debug\SaveCard.exe.config
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\bin\Debug\SaveCard.exe
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\bin\Debug\SaveCard.pdb
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\obj\Debug\SaveCard.csprojResolveAssemblyReference.cache
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\obj\Debug\SaveCard.Form1.resources
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\obj\Debug\SaveCard.Properties.Resources.resources
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\obj\Debug\SaveCard.csproj.GenerateResource.Cache
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\obj\Debug\SaveCard.exe
+c:\users\william.montero\documents\visual studio 2015\Projects\SaveCard\SaveCard\obj\Debug\SaveCard.pdb
