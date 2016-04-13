@@ -88,7 +88,6 @@
             this.textBox4.Size = new System.Drawing.Size(273, 20);
             this.textBox4.TabIndex = 26;
             this.textBox4.Visible = false;
-
             // 
             // textBox3
             // 
@@ -207,6 +206,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
