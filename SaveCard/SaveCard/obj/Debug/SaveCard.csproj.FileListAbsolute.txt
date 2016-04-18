@@ -1,0 +1,9 @@
+C:\Users\william.montero\Desktop\MunchkinSaveCards\SaveCard.exe.config
+C:\Users\william.montero\Desktop\MunchkinSaveCards\SaveCard.exe
+C:\Users\william.montero\Desktop\MunchkinSaveCards\SaveCard.pdb
+C:\Users\william.montero\Desktop\SaveCard\SaveCard\SaveCard\obj\Debug\SaveCard.csprojResolveAssemblyReference.cache
+C:\Users\william.montero\Desktop\SaveCard\SaveCard\SaveCard\obj\Debug\SaveCard.Form1.resources
+C:\Users\william.montero\Desktop\SaveCard\SaveCard\SaveCard\obj\Debug\SaveCard.Properties.Resources.resources
+C:\Users\william.montero\Desktop\SaveCard\SaveCard\SaveCard\obj\Debug\SaveCard.csproj.GenerateResource.Cache
+C:\Users\william.montero\Desktop\SaveCard\SaveCard\SaveCard\obj\Debug\SaveCard.exe
+C:\Users\william.montero\Desktop\SaveCard\SaveCard\SaveCard\obj\Debug\SaveCard.pdb
